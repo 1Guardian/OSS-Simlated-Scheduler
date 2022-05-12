@@ -1,4 +1,4 @@
-# OSS-License-Manager
+# OSS-Simulated-Scheduler
 
 ## Notes
 
