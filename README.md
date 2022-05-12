@@ -1,4 +1,6 @@
-# IMPORTANT NOTES
+# OSS-License-Manager
+
+## Notes
 
 config.h contains all data-structures and contains the configurable #define 
 variables. There are many shared memory segments and the program relies on 
